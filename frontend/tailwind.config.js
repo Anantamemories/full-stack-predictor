@@ -1,7 +1,4 @@
-module.exports = {
-  content: ["./src/**/*.{js,jsx}"],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-};
+"dependencies": {
+  "react": "...",
+  "react-dom": "..."
+}
