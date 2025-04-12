@@ -1,3 +1,13 @@
-# JoSAA Predictor Full Stack App
+# JoSAA Predictor Frontend
 
-Includes FastAPI backend and React + Tailwind frontend.
+## Run locally
+```bash
+npm install
+npm run dev
+```
+
+## Deploy to Vercel
+- Push this repo to GitHub
+- Connect GitHub to Vercel
+- Use `npm run build` as build command
+- Use `dist` or `build` as output folder
